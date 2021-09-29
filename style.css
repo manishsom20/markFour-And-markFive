@@ -26,6 +26,7 @@ header h1 {
 header a {
   color: white;
   font-size: 22px;
+  text-decoration: none;
 }
 
 header ul {
@@ -93,6 +94,7 @@ span {
 
 .primary-btn a, .secondary-btn a {
   color: white;
+  text-decoration: none;
 }
 
 .secondary-btn {
@@ -128,6 +130,7 @@ footer li {
 footer li a {
   color: white;
   font-size: 22px;
+  text-decoration: none;
 }
 
 .blog-heading {
